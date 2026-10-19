@@ -23,7 +23,7 @@ Channel link: https://youtu.be/mmxVCFceQgU
 ## Screenshot/Demo
 See what the dashboard looks like:
 
-![Blinkit Sales Analysis Dashboard](https://raw.githubusercontent.com/aadeshmeshram10/Blinkit-Sales-Analysis-using-Power-BI/main/Dashboard%20Snapshot.png)
+![Blinkit Sales Analysis Dashboard](https://raw.githubusercontent.com/aadeshmeshram10/blinkit-sales-analysis-powerbi/main/DashBoard%20Snapshot.png)
 ## Features
 
 * Comprehensive Sales Overview: Visualize overall performance with key metrics like total sales, average sales, number of items, and customer satisfaction.
